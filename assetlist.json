@@ -22,14 +22,14 @@
       "display": "OMN",
       "symbol": "OMN",
       "logo_URIs": {
-        "png": "https://omnischain.org/images/icon.png",
-        "svg": "https://omnischain.org/images/svg.png"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omnis/images/icon.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omnis/images/icon.svg"
       },
       "coingecko_id": "",
       "images": [
         {
-          "png": "https://omnischain.org/images/icon.png",
-          "svg": "https://omnischain.org/images/icon.svg"
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omnis/images/icon.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omnis/images/icon.svg"
         }
       ],
       "keywords": [
